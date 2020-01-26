@@ -23,13 +23,13 @@ Getting Started
 
 There are four primary components to `pattoo`. These are:
 
-- `pattoo-shared`: A shared set of software libraries used by all `pattoo`
+- **pattoo-shared**: A shared set of software libraries used by all `pattoo`
 applications.
-- `pattoo`: The central system that receives data from `pattoo-agents` and
+- **pattoo**: The central system that receives data from `pattoo-agents` and
 makes it available over the network via a web API.
-- `pattoo-agents`: Data collection agents that report data to the `pattoo`
+- **pattoo-agents**: Data collection agents that report data to the `pattoo`
 server.
-- `pattoo-web`: A web UI that allows you to view the data stored on the
+- **pattoo-web**: A web UI that allows you to view the data stored on the
 `pattoo` server.
 
 Installation
@@ -38,9 +38,11 @@ Installation
 Each component has detailed documentation which is listed below. The
 recommended order of installation is:
 
-- `pattoo`
-- `pattoo-agents`
-- `pattoo-web`
+1. **pattoo**
+1. **pattoo-agents**
+1. **pattoo-web**
+
+The next section has links to sites that explain the installation of each.
 
 Documentation
 =============
