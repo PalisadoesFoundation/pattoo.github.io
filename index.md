@@ -7,8 +7,8 @@ Data can be collected from a number of sources. The `pattoo-agents` repository p
 
 - Linux
 - SNMP
-- Modbus
-- BACnet
+- Modbus TCP
+- BACnet/IP
 - OPC UA
 
 `pattoo` was originally created to assist DevOps and building facilities
@@ -56,6 +56,7 @@ provided by the `pattoo` agents.
 
 -   The [Pattoo Server documentation](https://pattoo.readthedocs.io/)
     can be found here.
+-   The [Download the Pattoo Server code](https://github.com/PalisadoesFoundation/pattoo/archive/master.zip) here.
 -   Visit the [Pattoo Server GitHub
     site](https://github.com/PalisadoesFoundation/pattoo) to see the
     code.
@@ -70,6 +71,7 @@ but you can create your own. (See Pattoo-Shared for details)
 -   The [Pattoo Agents
     documentation](https://pattoo-agents.readthedocs.io/) can be found
     here.
+-   The [Download the Pattoo Agents code](https://github.com/PalisadoesFoundation/pattoo-agents/archive/master.zip) here.    
 -   Visit the [Pattoo Agents GitHub
     site](https://github.com/PalisadoesFoundation/pattoo-agents) to see
     the code.
@@ -81,6 +83,7 @@ The web user interface to use to get access to the `pattoo` data.
 
 -   The [Pattoo Web documentation](https://pattoo-web.readthedocs.io/)
     can be found here.
+-   The [Download the Pattoo Web code](https://github.com/PalisadoesFoundation/pattoo-web/archive/master.zip) here.        
 -   Visit the [Pattoo Web GitHub
     site](https://github.com/PalisadoesFoundation/pattoo-web) to see the
     code.
