@@ -1,5 +1,3 @@
-[![Pattoo Logo](docs/_static/pattoo-rtd.png)
-
 Introduction
 ============
 
