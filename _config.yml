@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: [Pattoo - The Palisadoes Foundation]
+description: [Open Source data collection system for IoT ]
+logo: [docs/_static/pattoo-rtd.png]
+show_downloads: ["true"]
