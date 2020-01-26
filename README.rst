@@ -1,4 +1,4 @@
-.. image:: docs/_static/pattoo-rtd.png
+.. image:: assets/pattoo-rtd.png
    :alt: Pattoo Logo
 
 Introduction
