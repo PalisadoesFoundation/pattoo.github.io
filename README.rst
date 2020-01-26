@@ -1,11 +1,6 @@
 .. image:: docs/_static/pattoo-rtd.png
    :alt: Pattoo Logo
 
-pattoo-agents
-=============
-
-``pattoo`` agents to collect IoT data for a centralized ``pattoo`` server.
-
 Introduction
 ============
 
