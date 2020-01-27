@@ -25,6 +25,12 @@ Version
 and fix bugs. Each `pattoo` GitHub repository has its own issues section for
 reporting bugs and making feature requests.
 
+Demo Site
+---------
+
+The [Pattoo demo site](http://nylon.palisadoes.org/pattoo/web/) runs the
+current stable version of code.
+
 Getting Started
 ===============
 
