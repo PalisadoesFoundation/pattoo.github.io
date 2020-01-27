@@ -18,6 +18,13 @@ data that changes over time by creating custom agents.
 
 `pattoo` currently only runs on Linux systems.
 
+Version
+-------
+
+`pattoo` is currently in alpha testing. Coders are welcome to add new features
+and fix bugs. Each `pattoo` GitHub repository has its own issues section for
+reporting bugs and making feature requests.
+
 Getting Started
 ===============
 
