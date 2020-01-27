@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Pattoo Documentation
 description: An IoT data collection system
 logo: /assets/pattoo-rtd.png
-show_downloads: "true"
+show_downloads: "false"
