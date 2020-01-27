@@ -73,6 +73,7 @@ but you can create your own. (See Pattoo-Shared for details)
 - [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo-agents/zipball/master)
 - [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo-agents/tarball/master)
 - [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo-agents)
+
 Pattoo-Web
 ----------
 
@@ -94,7 +95,7 @@ You can use the `pattoo-shared` documentation to learn the basics of
 creating your own custom `pattoo-agents` to feed data to the `pattoo`
 server
 
-- [View **Pattoo Shared Documentation**](https://pattoo-shared.readthedocs.io/) 
+- [View **Pattoo Shared Documentation**](https://pattoo-shared.readthedocs.io/)
 - [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo-shared/zipball/master)
 - [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo-shared/tarball/master)
 - [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo-shared)
