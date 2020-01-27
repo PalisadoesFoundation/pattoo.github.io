@@ -1,10 +1,6 @@
 Introduction
 ============
 
-- [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo.github.io/zipball/master)
-- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo.github.io/tarball/master)
-- [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo.github.io)
-
 `pattoo` stores timeseries data in a database and makes it available for users via a GraphQL API.
 
 Data can be collected from a number of sources. The `pattoo-agents` repository provides a number standard data collection agents for:
@@ -60,12 +56,11 @@ Pattoo
 The data collection server that acts as the central repository of data
 provided by the `pattoo` agents.
 
--   The [Pattoo Server documentation](https://pattoo.readthedocs.io/)
-    can be found here.
--   [Download the Pattoo Server code](https://github.com/PalisadoesFoundation/pattoo/archive/master.zip) here.
--   Visit the [Pattoo Server GitHub
-    site](https://github.com/PalisadoesFoundation/pattoo) to see the
-    code.
+- [View **Pattoo Server Documentation**](https://pattoo.readthedocs.io/)
+- [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo/zipball/master)
+- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo/tarball/master)
+- [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo)
+
 
 Pattoo-Agents
 -------------
@@ -74,25 +69,19 @@ Pattoo-Agents
 the central `pattoo` server over HTTP. We provide a few standard agents,
 but you can create your own. (See Pattoo-Shared for details)
 
--   The [Pattoo Agents
-    documentation](https://pattoo-agents.readthedocs.io/) can be found
-    here.
--   [Download the Pattoo Agents code](https://github.com/PalisadoesFoundation/pattoo-agents/archive/master.zip) here.    
--   Visit the [Pattoo Agents GitHub
-    site](https://github.com/PalisadoesFoundation/pattoo-agents) to see
-    the code.
-
+- [View **Pattoo Agents Documentation**](https://pattoo-agents.readthedocs.io/)
+- [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo-agents/zipball/master)
+- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo-agents/tarball/master)
+- [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo-agents)
 Pattoo-Web
 ----------
 
 The web user interface to use to get access to the `pattoo` data.
 
--   The [Pattoo Web documentation](https://pattoo-web.readthedocs.io/)
-    can be found here.
--   [Download the Pattoo Web code](https://github.com/PalisadoesFoundation/pattoo-web/archive/master.zip) here.        
--   Visit the [Pattoo Web GitHub
-    site](https://github.com/PalisadoesFoundation/pattoo-web) to see the
-    code.
+- [View **Pattoo Web Documentation**](https://pattoo-web.readthedocs.io/)
+- [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo-web/zipball/master)
+- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo-web/tarball/master)
+- [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo-web)
 
 Pattoo-Shared
 -------------
@@ -105,12 +94,10 @@ You can use the `pattoo-shared` documentation to learn the basics of
 creating your own custom `pattoo-agents` to feed data to the `pattoo`
 server
 
--   The [Pattoo Shared
-    documentation](https://pattoo-shared.readthedocs.io/) can be found
-    here.
--   Visit the [Pattoo Shared GitHub
-    site](https://github.com/PalisadoesFoundation/pattoo-shared) to see
-    the code.
+- [View **Pattoo Shared Documentation**](https://pattoo-shared.readthedocs.io/) 
+- [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo-shared/zipball/master)
+- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo-shared/tarball/master)
+- [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo-shared)
 
 
 About The Palisadoes Foundation
