@@ -1,6 +1,10 @@
 Introduction
 ============
 
+- [Download **ZIP File**](https://github.com/PalisadoesFoundation/pattoo.github.io/zipball/master)
+- [Download **TAR Ball**](https://github.com/PalisadoesFoundation/pattoo.github.io/tarball/master)
+- [View On **GitHub**](https://github.com/PalisadoesFoundation/pattoo.github.io)
+
 `pattoo` stores timeseries data in a database and makes it available for users via a GraphQL API.
 
 Data can be collected from a number of sources. The `pattoo-agents` repository provides a number standard data collection agents for:
