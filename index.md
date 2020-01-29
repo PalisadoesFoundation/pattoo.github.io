@@ -25,10 +25,12 @@ Version
 and fix bugs. Each `pattoo` GitHub repository has its own issues section for
 reporting bugs and making feature requests.
 
+`pattoo` requires Python 3.6 or greater
+
 Demo Site
 ---------
 
-The [Pattoo demo site](http://nylon.palisadoes.org/pattoo/web/) runs the
+The [Pattoo demo site](http://nylon.palisadoes.org/pattoo) runs the
 current stable version of code.
 
 Getting Started
