@@ -21,7 +21,8 @@ agents for IT systems. These include:
 
 `pattoo` was originally created to assist DevOps and building facilities
 management teams to monitor the performance of servers, applications and
-electro-mechanical systems.
+electro-mechanical systems. It is flexible enough to chart a wide variety of
+data that changes over time by creating custom agents. [Documentation on how to do this can be found here.](https://pattoo-shared.readthedocs.io/en/latest/agents.html)
 
 `pattoo` currently only runs on Linux systems.
 
