@@ -23,8 +23,8 @@ agents for IT systems. These include:
 management teams to monitor the performance of servers, applications and
 electro-mechanical systems.
 
-`pattoo` flexible enough to chart a wide variety of data that changes over time
-by creating custom agents. Test your Python coding skills. [Documentation on how to do this can be found here.](https://pattoo-shared.readthedocs.io/en/latest/agents.html)
+`pattoo` is flexible enough to chart a wide variety of data that changes over
+time by creating custom agents. Test your Python coding skills. [Documentation on how to do this can be found here.](https://pattoo-shared.readthedocs.io/en/latest/agents.html)
 
 `pattoo` currently only runs on Linux systems.
 
