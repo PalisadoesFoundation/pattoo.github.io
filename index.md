@@ -40,6 +40,15 @@ Demo Site
 The [Pattoo demo site](http://nylon.palisadoes.org/pattoo) runs the
 current stable version of code.
 
+Demo Video
+----------
+
+This video provides a short overview of what ``pattoo`` does.
+
+[![See Pattoo in action on the Palisadoes Foundation's YouTube channel](http://img.youtube.com/vi/N_B7ODI2d2g/0.jpg)](http://www.youtube.com/watch?v=N_B7ODI2d2g " Pattoo Graphical Business Dashboard Project")
+
+Now let's get started.
+
 Getting Started
 ===============
 
